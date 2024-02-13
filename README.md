@@ -1,4 +1,4 @@
-This repo contains all the code for computer engineering sppu sem5
+This repo contains all the codes for computer engineering sppu sem5 data structures
 1. Binary search tree(bst)
 2. Binary tree(bt)
 3. Threaded binary tree(tbt)
